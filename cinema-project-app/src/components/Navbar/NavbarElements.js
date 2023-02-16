@@ -12,9 +12,9 @@ export const Nav = styled.nav`
   /* Third Nav */
   /* justify-content: flex-start; */
 `;
-  
+  //#808080
 export const NavLink = styled(Link)`
-  color: #808080;
+  color: white;
   display: flex;
   align-items: center;
   text-decoration: none;
